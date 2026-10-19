@@ -1,0 +1,8 @@
+# Keep the repository to the built public release only.
+# Everything that is not the release output stays out of this repository.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!release-public/
+!release-public/**
