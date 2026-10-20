@@ -1,0 +1,8 @@
+﻿*
+!.gitignore
+!.gitattributes
+!README.md
+!release-public/
+!release-public/*.exe
+!release-public/*.exe.blockmap
+!release-public/*.yml
