@@ -1,8 +1,8 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: Eva-Setup-1.0.3.exe
-    sha512: 8E3g9dKl8PX/2CwXgvfCgXM2JwRH5xedBkEXZUKg3D+zkWmH56QLRq540GwWWc+6yedM2q3OxQoQRjng4n3OEw==
-    size: 173632999
-path: Eva-Setup-1.0.3.exe
-sha512: 8E3g9dKl8PX/2CwXgvfCgXM2JwRH5xedBkEXZUKg3D+zkWmH56QLRq540GwWWc+6yedM2q3OxQoQRjng4n3OEw==
-releaseDate: '2026-10-21T23:02:54.476Z'
+  - url: Eva-Setup-1.0.4.exe
+    sha512: 07PckFzx7mKdv/lUeNHL3G4aclmTqdM1aJhDaRNpfYowh29f8ASIBludumZ3hE0W5CvDuHez+tV/vegP0fKUdQ==
+    size: 173633275
+path: Eva-Setup-1.0.4.exe
+sha512: 07PckFzx7mKdv/lUeNHL3G4aclmTqdM1aJhDaRNpfYowh29f8ASIBludumZ3hE0W5CvDuHez+tV/vegP0fKUdQ==
+releaseDate: '2026-10-22T09:19:44.152Z'

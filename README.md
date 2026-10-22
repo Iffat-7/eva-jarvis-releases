@@ -1,4 +1,4 @@
-# EVA-JARVIS 1.0.3 — Windows desktop source
+# EVA-JARVIS 1.0.4 — Windows desktop source
 
 Eva is a 3D AI companion for Windows: she talks with you by voice (Google Gemini Live),
 can see your screen or webcam when you explicitly enable those controls, controls apps and
