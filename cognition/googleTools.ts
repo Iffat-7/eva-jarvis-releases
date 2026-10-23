@@ -101,24 +101,16 @@ export const googleToolMap = new Map();
 // EXECUTION HANDLER
 // ---------------------------------------------------------------------------
 
-async function executeGoogleTool(userId: string, tool: GoogleToolName, args: Record<string, unknown>) {
-  return { ok: false, summary: "Not fully implemented", error: "not_implemented" };
-}
+
+  
 
 // ---------------------------------------------------------------------------
 // REGISTRATION HELPER
 // ---------------------------------------------------------------------------
 
-export function registerGoogleTools(registry: { register: (arg0: any) => void }) {
-  for (const tool of gmailTools) {
-    registry.register(tool);
-  }
-  for (const tool of calendarTools) {
-    registry.register(tool);
-  }
-}
 
-export { GOOGLE_TOOLS, googleToolMap, executeGoogleTool, registerGoogleTools };
+
+
 
 // ---------------------------------------------------------------------------
 // GOOGLE DRIVE TOOLS
